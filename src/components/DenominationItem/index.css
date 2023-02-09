@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.list-value {
+  list-style-type: none;
+  width: 48%;
+  margin-bottom: 16px;
+}
+
+.button {
+  border-radius: 8px;
+  border: 2px solid #d4d2db;
+  background-color: #585076;
+  width: 90%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 35px;
+  padding-right: 35px;
+  color: #ffffff;
+  font-size: 20px;
+  cursor: pointer;
+  outline: none;
+}
